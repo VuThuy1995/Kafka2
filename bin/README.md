@@ -14,4 +14,3 @@ This Project covers how to use Spring Boot with Spring Kafka to Consume JSON/Str
 ## Publish to the Kafka Topic via Console
 - `bin/kafka-console-producer.sh --broker-list localhost:9092 --topic Kafka_Example`
 - `bin/kafka-console-producer.sh --broker-list localhost:9092 --topic Kafka_Example_json`
-# kafka2
